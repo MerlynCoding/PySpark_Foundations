@@ -26,7 +26,7 @@ This project focuses on using **PySpark** to process, analyze, and visualize emp
 ---
 
 ## 🛠 **Technologies Used**
-- **Python 3.12**
+- **Python 3.11**
 - **PySpark** (Spark SQL & DataFrame API)
 - **Pandas**
 - **Matplotlib**
